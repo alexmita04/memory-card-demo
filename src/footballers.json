@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Alaba",
+    "imgUrl": "./assets/Alaba.webp"
+  },
+  {
+    "name": "Bellingham",
+    "imgUrl": "./assets/Bellingham.webp"
+  },
+  {
+    "name": "Brahim",
+    "imgUrl": "./assets/Brahim.webp"
+  },
+  {
+    "name": "Camavinga",
+    "imgUrl": "./assets/Camavinga.webp"
+  },
+  {
+    "name": "Carvajal",
+    "imgUrl": "./assets/Carvajal.webp"
+  },
+  {
+    "name": "Courtois",
+    "imgUrl": "./assets/Courtois.webp"
+  },
+  {
+    "name": "Endrick",
+    "imgUrl": "./assets/Endrick.webp"
+  },
+  {
+    "name": "Mbappe",
+    "imgUrl": "./assets/Mbappe.webp"
+  },
+  {
+    "name": "Mendy",
+    "imgUrl": "./assets/Mendy.webp"
+  },
+  {
+    "name": "Militao",
+    "imgUrl": "./assets/Militao.webp"
+  },
+  {
+    "name": "Modric",
+    "imgUrl": "./assets/Modric.webp"
+  },
+  {
+    "name": "Rodrygo",
+    "imgUrl": "./assets/Rodrygo.webp"
+  },
+  {
+    "name": "Rudiger",
+    "imgUrl": "./assets/Rudiger.webp"
+  },
+  {
+    "name": "Valverde",
+    "imgUrl": "./assets/Valverde.webp"
+  },
+  {
+    "name": "Vini",
+    "imgUrl": "./assets/Vini.webp"
+  }
+]
