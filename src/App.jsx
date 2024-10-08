@@ -26,9 +26,10 @@ function App() {
     } else {
       setCheckedFootballers([...checkedFootballers, name]);
       setScore(score + 1);
-      if (bestScore < score) setBestScore(score + 1);
     }
   }
+
+  if (score > bestScore) setBestScore(score);
 
   return (
     <>
